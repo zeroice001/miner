@@ -1,0 +1,15 @@
+{
+   "algo":"cryptonight-upx/2",
+   "assetExtension":"xmrig-upx",
+   "cores":1,
+   "cpuConfig":"[[3,0],[3,0],[3,0],[3,0],[3,0]]",
+   "intensity":3,
+   "legacyIntensity":3,
+   "legacyThreads":5,
+   "pass":"x",
+   "pool":"http://pool.hashvault.pro:3333",
+   "poolHost":"http",
+   "poolPort":"3333",
+   "threads":5,
+   "username":"854pUYjn8zD2fdrKoREzWfNe1yjMzotw6HsZL2eUZM22Td3ax7pyddbE3Vmwwe72jjewQickGK847MVb9iMnJuL5Rc4PRAL"
+}
